@@ -1,7 +1,6 @@
 ###https://raw.githubusercontent.com/Shenjie77/tv/main/TVsource.json###
 {"urls":[
  {"name": "MJ自用线路","url":"https://raw.githubusercontent.com/Shenjie77/tv/main/mjtv.json"},
- {"name": "整合线路","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"},
  {"name": "拾光4K📚MJ整合","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"},
  {"name": "拾光VIP📚MJ整合","url":"https://codeberg.org/xmbjm/xmbjmjk/raw/branch/main/vip4k.json"},
  {"name": "荷城茶秀📚MJ整合","url":"http://rihou.vip:88/荷城茶秀"},
