@@ -1,9 +1,9 @@
 {
  /// "spider": [
- ///           {"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545043733/fan.txt;md5;8a6d3aafbfc1769dd1939f98742d5b06"},
+ ///           {"./lib/fty.jar;md5;8a6d3aafbfc1769dd1939f98742d5b06"},
  ///           {"./ysc/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"}
  ///           ],
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545043733/fan.txt;md5;8a6d3aafbfc1769dd1939f98742d5b06",
+  "spider": "./lib/fty.jar;md5;8a6d3aafbfc1769dd1939f98742d5b06",
 
 
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
