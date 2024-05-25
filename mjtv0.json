@@ -2,7 +2,7 @@
   "spider": [
             {"./lib/fty.jar;md5;8a6d3aafbfc1769dd1939f98742d5b06"},
             {"./ysc/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"}
-	    {"../lib/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082"},
+	    {"./lib/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082"},
             ],
 ///  "spider": "./lib/fty.jar;md5;8a6d3aafbfc1769dd1939f98742d5b06",
 
