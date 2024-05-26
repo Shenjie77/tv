@@ -178,20 +178,20 @@
             {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./ysc/lib/jrkan.json"},
             {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./ysc/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./ysc/lib/huyazhibo.js"},
             {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./ysc/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./ysc/lib/douyu.js"},{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
-            {"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./ysc/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./ysc/lib/blzb.js"},
-            { "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-            {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ysc/lib/kuqimv.json"},
-            {"key": "Bili", "name": "🅱哔哔┃合集", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "./lib/bilibili.json"},
-            {"key": "Biliych", "name": "🅱明星┃演唱会", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "./lib/biliych.json"},
-            {"key": "dr_兔小贝", "name": "📚儿童┃启蒙", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/兔小贝.js", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0},
-            {"key": "少儿教育", "name": "📚少儿┃教育", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/少儿教育.json"},
-            {"key": "小学课堂", "name": "📚小学┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/小学课堂.json"},
-            {"key": "初中课堂", "name": "📚初中┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/初中课堂.json"},
-            {"key": "高中教育", "name": "📚高中┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/高中课堂.json"},
+            //{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./ysc/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./ysc/lib/blzb.js"},
+            //{ "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+            //{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ysc/lib/kuqimv.json"},
+            //{"key": "Bili", "name": "🅱哔哔┃合集", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "./lib/bilibili.json"},
+            //{"key": "Biliych", "name": "🅱明星┃演唱会", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "./lib/biliych.json"},
+            //{"key": "dr_兔小贝", "name": "📚儿童┃启蒙", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/兔小贝.js", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0},
+            //{"key": "少儿教育", "name": "📚少儿┃教育", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/少儿教育.json"},
+            //{"key": "小学课堂", "name": "📚小学┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/小学课堂.json"},
+            //{"key": "初中课堂", "name": "📚初中┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/初中课堂.json"},
+            //{"key": "高中教育", "name": "📚高中┃课堂", "type": 3, "api": "csp_Bili", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0, "ext": "./lib/高中课堂.json"},
             
 
 
-	    {"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ysc/lib/Bili.json"}
+	    //{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ysc/lib/Bili.json"}
 
 
 
