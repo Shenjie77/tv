@@ -1,11 +1,11 @@
 {
   "urls": [
     {
-      "url": "/fty/fty.json",
+      "url": "./fty/fty.json",
       "name": "🚀多多┃饭太硬线路"
     },
     {
-      "url": "/feimao/feimao.json",
+      "url": "./feimao/feimao.json",
       "name": "🐹多多┃肥猫线路"
     }
   ]
