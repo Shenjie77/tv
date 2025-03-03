@@ -1,6 +1,6 @@
 {
   "urls": [
-    {"url": "/fty/fty.json", "name": "🚀多多┃饭太硬线路"},
-    {"url": "/feimao/feimao.json", "name": "🐹多多┃肥猫线路"}
+    {"name": "🚀多多┃饭太硬线路", "url": "https://raw.githubusercontent.com/Shenjie77/tv/main/fty/fty.json"},
+    {"url": "https://raw.githubusercontent.com/Shenjie77/tv/main/feimao/feimao.json", "name": "🐹多多┃肥猫线路"}
   ]
 }
